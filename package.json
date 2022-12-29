@@ -1,0 +1,22 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okhat1/bot.git"
+  },
+  "author": "Omar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okhat1/bot/issues"
+  },
+  "homepage": "https://github.com/okhat1/bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
